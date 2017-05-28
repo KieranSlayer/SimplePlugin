@@ -1,0 +1,13 @@
+main: me.kieranslayer.sp.Main
+version: 0.1
+author: KieranSlayer
+name: SimplePlugin
+commands:
+  hello:
+    usage: /<command>
+    description: says Hello
+    aliases: []
+  spdev:
+    usage: /<command>
+    description: tell you who made the plugin
+    aliases: []
